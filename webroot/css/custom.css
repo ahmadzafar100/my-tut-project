@@ -1,0 +1,32 @@
+* {
+    font-family: Poppins;
+}
+
+select option {
+    font-family: Poppins !important;
+}
+
+/* * {
+    border-radius: 0 !important;
+} */
+
+th,td {
+    font-size: 10px;
+    vertical-align: middle;
+}
+
+.text-sm {
+    font-size: 14px;
+}
+
+.bg-grad {
+    background-image: radial-gradient(circle at 32% 86%, rgba(162, 162, 162,0.05) 0%, rgba(162, 162, 162,0.05) 50%,rgba(95, 95, 95,0.05) 50%, rgba(95, 95, 95,0.05) 100%),radial-gradient(circle at 62% 1%, rgba(99, 99, 99,0.05) 0%, rgba(99, 99, 99,0.05) 50%,rgba(70, 70, 70,0.05) 50%, rgba(70, 70, 70,0.05) 100%),radial-gradient(circle at 16% 3%, rgba(80, 80, 80,0.05) 0%, rgba(80, 80, 80,0.05) 50%,rgba(228, 228, 228,0.05) 50%, rgba(228, 228, 228,0.05) 100%),linear-gradient(90deg, rgb(200, 119, 231),rgb(168, 91, 251));
+}
+
+.dashboard .card, .dashboard .card-body {
+    border-color: rgb(200, 119, 231);
+}
+
+.dashboard .card, .dashboard .card-body, .dashboard .card-header {
+    border-radius: 0 !important;
+}

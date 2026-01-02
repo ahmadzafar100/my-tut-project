@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Login Page from github</title>
+    <title>User Login Page from github 1</title>
 
     <?= $this->Html->css('bootstrap.min') ?>
     <?= $this->Html->css('custom') ?>

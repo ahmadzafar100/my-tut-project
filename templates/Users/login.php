@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Login Page from github in zafar_branch</title>
+    <title>User Login</title>
 
     <?= $this->Html->css('bootstrap.min') ?>
     <?= $this->Html->css('custom') ?>
@@ -18,7 +18,7 @@
         <div class="row py-3">
             <div class="col-md-5 col-sm-6 mx-auto py-3">
                 <div class="card login">
-                    <div class="card-header login-bg">Login Zafar_branch <i class="bi bi-box-arrow-in-left"></i></div>
+                    <div class="card-header login-bg">Login <i class="bi bi-box-arrow-in-left"></i></div>
                     <div class="card-body">
                         <?= $this->Form->create() ?>
                         <div class="mb-3">
